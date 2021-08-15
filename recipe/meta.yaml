@@ -1,5 +1,5 @@
 {% set name = "universal-ctags" %}
-{% set version = "5.9.20210808.0" %}
+{% set version = "5.9.20210815.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/universal-ctags/ctags/archive/p{{ version }}.tar.gz
-  sha256: 7f5f88d20750dfa2437ca9d163972b8684e3cf16de022a5177f322be92f528cc
+  sha256: a56de2c39090bbe1baa1fc7fcdb50834503f8b2b02edf304d7ab61c76ad82c0d
 
 build:
   number: 0
