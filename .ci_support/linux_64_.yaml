@@ -18,9 +18,6 @@ libiconv:
 - '1'
 libxml2:
 - '2.9'
-pin_run_as_build:
-  libxml2:
-    max_pin: x.x
 target_platform:
 - linux-64
 zip_keys:
