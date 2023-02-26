@@ -1,11 +1,11 @@
-About universal-ctags
-=====================
+About universal-ctags-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/universal-ctags-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/universal-ctags/ctags
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/universal-ctags-feedstock/blob/main/LICENSE.txt)
 
 Summary: A maintained ctags implementation
 
