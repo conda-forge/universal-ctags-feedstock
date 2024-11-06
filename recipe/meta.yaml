@@ -28,6 +28,7 @@ requirements:
     - jansson
     - libseccomp  # [linux]
     - yaml
+    - pcre2
   run_constrained:
     # Contains the same binary ctags
     - ctags <0a0
