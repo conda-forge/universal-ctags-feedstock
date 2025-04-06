@@ -21,7 +21,7 @@ docker_image:
 libiconv:
 - '1'
 libxml2:
-- '2'
+- '2.13'
 pcre2:
 - '10.44'
 target_platform:
