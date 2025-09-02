@@ -23,7 +23,7 @@ libiconv:
 libxml2:
 - '2.13'
 pcre2:
-- '10.45'
+- '10.46'
 target_platform:
 - linux-ppc64le
 zip_keys:
