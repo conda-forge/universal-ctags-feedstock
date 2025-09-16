@@ -10,7 +10,7 @@ source:
   sha256: 0224d53cc2c3d4823b8604f15fae7943165fdac198c4c774794bb25961e228a4
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
@@ -24,7 +24,7 @@ requirements:
     - make
   host:
     - libiconv
-    - libxml2
+    - libxml2-devel
     - jansson
     - libseccomp  # [linux]
     - yaml
