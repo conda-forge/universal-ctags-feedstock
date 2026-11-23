@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: universal-ctags
-  version: "6.2.20261108.0"
+  version: "6.2.20261122.0"
 
 package:
   name: ${{ name|lower }}
@@ -10,10 +10,10 @@ package:
 
 source:
   url: https://github.com/universal-ctags/ctags/archive/p${{ version }}.tar.gz
-  sha256: 47925ae0e813d628a0aaf8255799ecce9bb34e1275cf73224578fabb1e2346e7
+  sha256: 99c44abf1509614a018afc74f3d7dcc8a9644394d6617eb23af29d5e18acf1ce
 
 build:
-  number: 1
+  number: 0
   skip: win
 
 requirements:
